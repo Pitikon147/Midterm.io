@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Midterm.io/static/css/main.73e72e7d.css",
+    "main.js": "/Midterm.io/static/js/main.8d87546d.js",
+    "static/js/787.c4325761.chunk.js": "/Midterm.io/static/js/787.c4325761.chunk.js",
+    "static/media/Tonkut.webp": "/Midterm.io/static/media/Tonkut.93755ea4f56d6808dea2.webp",
+    "static/media/Dongburi.webp": "/Midterm.io/static/media/Dongburi.8af9a64532c405033cf6.webp",
+    "static/media/Selmon.webp": "/Midterm.io/static/media/Selmon.f252c76dbd4c0d65d00d.webp",
+    "static/media/Me.jpg": "/Midterm.io/static/media/Me.2623ba193ecd5613a1b5.jpg",
+    "static/media/Sushi.jpg": "/Midterm.io/static/media/Sushi.a08aa1e731d0a19ada08.jpg",
+    "index.html": "/Midterm.io/index.html",
+    "main.73e72e7d.css.map": "/Midterm.io/static/css/main.73e72e7d.css.map",
+    "main.8d87546d.js.map": "/Midterm.io/static/js/main.8d87546d.js.map",
+    "787.c4325761.chunk.js.map": "/Midterm.io/static/js/787.c4325761.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73e72e7d.css",
+    "static/js/main.8d87546d.js"
+  ]
+}
